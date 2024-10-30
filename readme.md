@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 설명서
 - kdt remote repository test
 - 반갑습니다.
@@ -7,3 +8,7 @@
 ```
 코드는 이곳에 입력하시면 됩니다.
 ```
+=======
+##설명서
+- kdt remote repository test
+>>>>>>> fcc1b31 (upload readme.md)
